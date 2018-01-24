@@ -1,0 +1,86 @@
+<svg width="337" height="86" viewBox="0 0 337 86" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1</title>
+    <desc>Created using Figma</desc>
+    <g id="Canvas" transform="translate(150 3427)">
+        <g id="1">
+            <g id="Group">
+                <g id="Vector">
+                    <use xlink:href="#path0_stroke" transform="translate(22 -3416.5)" fill="url(#paint0_linear)"/>
+                </g>
+                <g id="Vector">
+                    <use xlink:href="#path1_stroke" transform="translate(-41 -3425.5)" fill="url(#paint1_linear)"/>
+                </g>
+            </g>
+            <g id="Group">
+                <g id="Vector">
+                    <use xlink:href="#path2_fill" transform="matrix(-4.3481e-08 -1 1 -4.3943e-08 -47.3215 -3341)" fill="url(#paint2_linear)"/>
+                </g>
+                <g id="Vector">
+                    <use xlink:href="#path3_fill" transform="matrix(-4.3481e-08 -1 1 -4.3943e-08 -49.7455 -3348.77)" fill="url(#paint3_linear)"/>
+                </g>
+            </g>
+            <g id="Group">
+                <g id="Vector">
+                    <use xlink:href="#path2_fill" transform="matrix(4.3481e-08 -1 -1 -4.3943e-08 84.3215 -3341)" fill="url(#paint4_linear)"/>
+                </g>
+                <g id="Vector">
+                    <use xlink:href="#path3_fill" transform="matrix(4.3481e-08 -1 -1 -4.3943e-08 86.7455 -3348.77)" fill="url(#paint5_linear)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.63137e-15 39.899 -59.3048 2.44311e-15 59.3048 -1.19697)">
+            <stop offset="0" stop-color="#F87B08"/>
+            <stop offset="0.0001" stop-color="#03C5FF"/>
+            <stop offset="0.243094" stop-color="#004256"/>
+            <stop offset="0.458564" stop-color="#03C5FF"/>
+            <stop offset="0.734807" stop-color="#01617D"/>
+            <stop offset="0.972376"/>
+        </linearGradient>
+        <linearGradient id="paint1_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(3.87757e-15 50 -63.3255 3.06162e-15 63.3255 -1.5)">
+            <stop offset="0" stop-color="#F87B08"/>
+            <stop offset="0.0001" stop-color="#03C5FF"/>
+            <stop offset="0.243094" stop-color="#004256"/>
+            <stop offset="0.458564" stop-color="#03C5FF"/>
+            <stop offset="0.734807" stop-color="#01617D"/>
+            <stop offset="0.972376"/>
+        </linearGradient>
+        <linearGradient id="paint2_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(34.3011 -280.79 279.133 54.2562 -139.566 203.328)">
+            <stop offset="0"/>
+            <stop offset="0.171271" stop-color="#00BFFF"/>
+            <stop offset="0.171371" stop-color="#00BAF8"/>
+            <stop offset="0.303867" stop-color="#013242"/>
+            <stop offset="0.668508" stop-color="#08C1FF"/>
+            <stop offset="0.850829"/>
+        </linearGradient>
+        <linearGradient id="paint3_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(34.3011 -268.064 279.133 51.7973 -139.566 194.113)">
+            <stop offset="0"/>
+            <stop offset="0.171271" stop-color="#00BFFF"/>
+            <stop offset="0.171371" stop-color="#00BAF8"/>
+            <stop offset="0.303867" stop-color="#013242"/>
+            <stop offset="0.668508" stop-color="#08C1FF"/>
+            <stop offset="0.850829"/>
+        </linearGradient>
+        <linearGradient id="paint4_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(34.3011 -280.79 279.133 54.2562 -139.566 203.328)">
+            <stop offset="0"/>
+            <stop offset="0.171271" stop-color="#00BFFF"/>
+            <stop offset="0.171371" stop-color="#00BAF8"/>
+            <stop offset="0.303867" stop-color="#013242"/>
+            <stop offset="0.668508" stop-color="#08C1FF"/>
+            <stop offset="0.850829"/>
+        </linearGradient>
+        <linearGradient id="paint5_linear" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(34.3011 -268.064 279.133 51.7973 -139.566 194.113)">
+            <stop offset="0"/>
+            <stop offset="0.171271" stop-color="#00BFFF"/>
+            <stop offset="0.171371" stop-color="#00BAF8"/>
+            <stop offset="0.303867" stop-color="#013242"/>
+            <stop offset="0.668508" stop-color="#08C1FF"/>
+            <stop offset="0.850829"/>
+        </linearGradient>
+        <path id="path0_stroke" d="M -1.42482 39.0311C -1.6838 39.818 -1.25583 40.6658 -0.468928 40.9248C 0.317978 41.1838 1.16584 40.7558 1.42482 39.9689L -1.42482 39.0311ZM 13 0L 14.3945 -0.552547C 14.1619 -1.13955 13.5867 -1.51806 12.9555 -1.49934C 12.3244 -1.48062 11.7726 -1.06868 11.5752 -0.468928L 13 0ZM 23.5 26.5L 22.1055 27.0525C 22.3268 27.611 22.8599 27.9836 23.4604 27.9995C 24.061 28.0153 24.613 27.6714 24.8634 27.1253L 23.5 26.5ZM 33.8171 4.00443L 35.1274 3.2744C 34.8524 2.78066 34.3231 2.48346 33.7584 2.50557C 33.1936 2.52769 32.6892 2.86538 32.4536 3.37911L 33.8171 4.00443ZM 40.5 16L 39.1896 16.73C 39.4743 17.241 40.0301 17.5399 40.6134 17.4957L 40.5 16ZM 59.1134 16.0931C 59.9395 16.0304 60.5583 15.31 60.4957 14.4839C 60.4331 13.6579 59.7127 13.039 58.8866 13.1016L 59.1134 16.0931ZM 1.42482 39.9689L 14.4248 0.468928L 11.5752 -0.468928L -1.42482 39.0311L 1.42482 39.9689ZM 11.6055 0.552547L 22.1055 27.0525L 24.8945 25.9475L 14.3945 -0.552547L 11.6055 0.552547ZM 24.8634 27.1253L 35.1805 4.62974L 32.4536 3.37911L 22.1366 25.8747L 24.8634 27.1253ZM 32.5067 4.73445L 39.1896 16.73L 41.8104 15.27L 35.1274 3.2744L 32.5067 4.73445ZM 40.6134 17.4957L 59.1134 16.0931L 58.8866 13.1016L 40.3866 14.5043L 40.6134 17.4957Z"/>
+        <path id="path1_stroke" d="M 0 23.2868C -0.828427 23.2868 -1.5 23.9583 -1.5 24.7868C -1.5 25.6152 -0.828427 26.2868 0 26.2868L 0 23.2868ZM 17.173 24.7868L 18.3297 23.8317C 18.0447 23.4866 17.6206 23.2868 17.173 23.2868L 17.173 24.7868ZM 22.1818 30.8529L 21.0252 31.808C 21.3268 32.1733 21.7833 32.3747 22.2565 32.3511C 22.7297 32.3275 23.1639 32.0817 23.4278 31.6882L 22.1818 30.8529ZM 33.2727 14.3088L 34.6607 13.7401C 34.4506 13.2274 33.975 12.8722 33.4237 12.8164C 32.8725 12.7607 32.3353 13.0133 32.0268 13.4736L 33.2727 14.3088ZM 43.2903 38.7574L 41.9023 39.3261C 42.1394 39.9047 42.7106 40.2755 43.3356 40.2567C 43.9606 40.2378 44.5084 39.8331 44.7101 39.2413L 43.2903 38.7574ZM 56.5 0L 57.9872 -0.195293C 57.8965 -0.886316 57.3417 -1.4238 56.6482 -1.49266C 55.9547 -1.56152 55.305 -1.1436 55.0802 -0.483911L 56.5 0ZM 61.5128 49.6953C 61.6206 50.5167 62.3739 51.0951 63.1953 50.9872C 64.0167 50.8794 64.5951 50.1261 64.4872 49.3047L 61.5128 49.6953ZM 0 26.2868L 17.173 26.2868L 17.173 23.2868L 0 23.2868L 0 26.2868ZM 16.0164 25.7418L 21.0252 31.808L 23.3385 29.8979L 18.3297 23.8317L 16.0164 25.7418ZM 23.4278 31.6882L 34.5187 15.1441L 32.0268 13.4736L 20.9359 30.0177L 23.4278 31.6882ZM 31.8847 14.8775L 41.9023 39.3261L 44.6783 38.1886L 34.6607 13.7401L 31.8847 14.8775ZM 44.7101 39.2413L 57.9198 0.483911L 55.0802 -0.483911L 41.8705 38.2734L 44.7101 39.2413ZM 55.0128 0.195293L 61.5128 49.6953L 64.4872 49.3047L 57.9872 -0.195293L 55.0128 0.195293Z"/>
+        <path id="path2_fill" d="M 24.8186 229.935L 24.8186 171.643L 1.8731 157.561L 1.8731 102.155L 22.0089 102.155L 22.0089 -1.10082e-07L 20.1358 -1.10082e-07L 20.1358 100.943L 0 100.943L 0 158.023L 22.9455 172.163L 22.9455 229.993C 21.447 230.281 20.3231 231.089 20.3231 232.128C 20.3231 233.34 21.9153 234.321 23.882 234.321C 25.8488 234.321 27.4409 233.34 27.4409 232.128C 27.4409 231.089 26.3171 230.224 24.8186 229.935Z"/>
+        <path id="path3_fill" d="M 20.3231 221.509C 20.3231 222.721 21.9153 223.702 23.882 223.702C 25.8488 223.702 27.4409 222.721 27.4409 221.509C 27.4409 220.47 26.3171 219.662 24.8186 219.373L 24.8186 171.643L 1.96675 157.561L 1.96675 109.312L 22.1026 109.312L 22.1026 0L 20.2295 0L 20.2295 108.1L 1.78633e-07 108.1L 1.78633e-07 158.023L 22.9455 172.163L 22.9455 219.431C 21.447 219.662 20.3231 220.528 20.3231 221.509Z"/>
+    </defs>
+</svg>
